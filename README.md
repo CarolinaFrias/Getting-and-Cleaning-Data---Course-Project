@@ -1,6 +1,6 @@
 Getting-and-Cleaning-Data---Course-Project
 ==========================================
-This repository hosts the R code and for the Data Science's track course "Getting and Cleaning Data". The dataset being used is: Human Activity Recognition Using Smartphones
+This repository hosts the R code for the Data Scientist's track course "Getting and Cleaning Data". The dataset being used is: Human Activity Recognition Using Smartphones
 
 ##Files
 
